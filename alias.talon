@@ -1,0 +1,2 @@
+ops: ' = '
+const: 'const'
