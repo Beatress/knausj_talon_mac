@@ -222,12 +222,9 @@ simple_keys = [
 ]
 
 alternate_keys = {
-<<<<<<< HEAD
     "page up": "pageup",
     "page down": "pagedown",
-=======
     #"delete": "backspace",
->>>>>>> e9d12c00d4c4c9fe9c7b2d65a51fd73db326bfa3
     "cube": "delete",
     'junk': 'backspace',
 }
