@@ -7,10 +7,10 @@ run calibration: user.mouse_calibrate()
 #	# close the mouse grid if open
 #	user.grid_close()
 
-#righty: 
-#	mouse_click(1)
-#	# close the mouse grid if open
-#	user.grid_close()
+option: 
+	mouse_click(1)
+	# close the mouse grid if open
+	user.grid_close()
 
 #midclick: 
 #	mouse_click(2)
