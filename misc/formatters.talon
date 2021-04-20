@@ -3,7 +3,7 @@
   result = user.formatted_text(text, "NOOP")
   insert(result)
 (phrase) <user.text> over: 
-  result = user.formatted_text(text, "NOOP")
+  result100 = user.formatted_text(text, "NOOP")
   insert(result)
 <user.format_text>+$: user.insert_many(format_text_list)
 <user.format_text>+ over: user.insert_many(format_text_list)
