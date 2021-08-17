@@ -134,8 +134,10 @@ punctuation_words = {
     "`": "`",
     ",": ",",  # <== these things
     "back tick": "`",
+    "grave": "`",
     "comma": ",",
     "period": ".",
+    "full stop": ".",
     "semicolon": ";",
     "colon": ":",
     "forward slash": "/",
@@ -153,7 +155,9 @@ punctuation_words = {
 }
 symbol_key_words = {
     "dot": ".",
+    "point": ".",
     "quote": "'",
+    "apostrophe": "'",
     "L square": "[",
     "left square": "[",
     "square": "[",
